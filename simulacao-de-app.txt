@@ -1,0 +1,3 @@
+simulação de um app 
+
+com linhas de commando.
